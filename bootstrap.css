@@ -1,0 +1,29 @@
+
+.custom-nav {
+   background-color: #48b8f9; 
+   color:  #48b8f9;
+}
+
+
+.custom-nav .nav-link {
+   color: #343c40;
+}
+
+body{
+   font-family:"Lato",sans-serif;
+   background-color: #343c40;
+ }
+ .btn-custom {
+   background-color: #48b8f9;
+   color: #343c40;
+
+ }
+ p{
+   color: #48b8f9;
+ }
+
+h2 {
+   color: #48b8f9;
+}
+ 
+
